@@ -24,6 +24,8 @@
 
 # Languages
 
+<http://james-iry.blogspot.fr/2009/05/brief-incomplete-and-mostly-wrong.html>
+
 ## Web developers
 * JavaScript -> Web Frontend | Backend
 * PHP -> Web Backend (Wordpress / Facebook / Wikipedia)
