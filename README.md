@@ -28,6 +28,8 @@ Workshop "Programming Languages & Concepts -> The Big View"
 
 <http://james-iry.blogspot.fr/2009/05/brief-incomplete-and-mostly-wrong.html>
 
+![](By_c6-tCAAAMQfN.jpg)
+
 ## Web developers
 * JavaScript -> Web Frontend | Backend
 * PHP -> Web Backend (Wordpress / Facebook / Wikipedia)
