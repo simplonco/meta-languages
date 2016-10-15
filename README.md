@@ -1,5 +1,7 @@
 # Programming Concepts
 
+Workshop "Programming Languages -> The Big View"
+
 ## Basic concepts
 * variables / types
 * functions
